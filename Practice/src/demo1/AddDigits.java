@@ -17,7 +17,7 @@ public class AddDigits {
             
         } 
         System.out.println(sum);
-  
+        System.out.println(m[i]);
 		}
 	}
 
